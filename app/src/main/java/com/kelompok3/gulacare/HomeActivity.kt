@@ -7,7 +7,7 @@ import com.kelompok3.gulacare.databinding.ActivityHomeBinding
 import com.kelompok3.gulacare.view.ListRetrofit
 
 
-class HomeActivity : AppCompatActivity() {
+class  HomeActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityHomeBinding
 
